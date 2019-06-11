@@ -1,6 +1,6 @@
 # wiringPi-arm64
 
-- Note
+## Note
 This is a arm64 fork of the unofficial mirror of WiringPi to support ports (Python/Ruby/etc).
 
 Please do not email Gordon if you have issues, he will not be able to help.
@@ -9,7 +9,7 @@ Pull-requests are not currently accepted, since this is a mirror.
 
 For support, comments, questions, etc please join the WiringPi Discord channel: https://discord.gg/SM4WUVG
 
-- How to usse
+## How to usse
 
 Just compile like the original wiringPi and install it.
 
@@ -19,7 +19,7 @@ In addition create a fake cpuinfo as /etc/wiringPi/cpuinfo with entries for Hard
   Revision 	: a020d3
 ```
 
-- wiringPi README
+## wiringPi README
 
 Please note that the official way to get wiringPi is via git from
 git.drogon.net and not GitHub.
